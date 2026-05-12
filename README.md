@@ -4,7 +4,7 @@
 
 ## I walk into broken, expensive, manual processes and automate them out of existence.
 
-Analytics & Automation Engineer based in Melbourne, Australia — building toward Brisbane and beyond.
+Analytics & Automation Engineer based in Melbourne, Australia.
 
 I've delivered enterprise-grade automation inside one of Victoria's most regulated government environments — including the organisation's first locally-deployed, multi-model AI pipeline, processing ~3,500 enforcement call recordings with strict privacy maintained throughout.
 

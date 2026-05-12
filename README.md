@@ -1,16 +1,29 @@
-## Hi there 👋
+![Profile Banner](00_Resources/readme_banner.png)
 
-<!--
-**DataDaneHQ/DataDaneHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## I walk into broken, expensive, manual processes and automate them out of existence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Analytics & Automation Engineer based in Melbourne, Australia — building toward Brisbane and beyond.
+
+I've delivered enterprise-grade automation inside one of Victoria's most regulated government environments — including the organisation's first locally-deployed, multi-model AI pipeline, processing ~3,500 enforcement call recordings with strict privacy maintained throughout.
+
+**What that looks like in practice:**  
+- ~3,500 call recordings transcribed at scale — speaker-labelled, privacy-preserving, fully offline, zero manual intervention  
+- Annual retailer reporting cycle — weeks of manual effort automated to a 10-minute rerun  
+- 12-day regulatory validation workflow reduced to 3 days  
+
+**Toolkit:** R · Python · SQL · Tableau · Azure · WhisperX · Shiny · SharePoint automation · AI pipelines
+
+---
+
+<br>
+
+📂 **[View my full portfolio →](https://github.com/DataDaneHQ/Portfolio_Summary)**
+🔗 **[Connect on LinkedIn →](https://www.linkedin.com/in/dane-tipene)**
+
+---
+
+<br>
+
+*One action. Expanding impact.*

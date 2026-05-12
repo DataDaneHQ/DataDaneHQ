@@ -15,11 +15,7 @@ I've delivered enterprise-grade automation inside one of Victoria's most regulat
 
 **Toolkit:** R · Python · SQL · Tableau · Azure · WhisperX · Shiny · SharePoint automation · AI pipelines
 
----
-
-<br>
-
-📂 **[View my full portfolio →](https://github.com/DataDaneHQ/Portfolio_Summary)**
+📂 **[View my full portfolio →](https://github.com/DataDaneHQ/Portfolio_Summary)**  
 🔗 **[Connect on LinkedIn →](https://www.linkedin.com/in/dane-tipene)**
 
 ---

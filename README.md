@@ -2,7 +2,7 @@
 
 <br>
 
-## I walk into broken, expensive, manual processes and automate them out of existence.
+## I build automation that eliminates the manual work organisations have learned to live with.
 
 Analytics & Automation Engineer based in Melbourne, Australia.
 

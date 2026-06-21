@@ -6,10 +6,10 @@
 
 Analytics & Automation Engineer based in Melbourne, Australia.
 
-I've delivered enterprise-grade automation inside one of Victoria's most regulated government environments — including the organisation's first locally-deployed, multi-model AI pipeline, processing ~3,500 enforcement call recordings with strict privacy maintained throughout.
+I've delivered enterprise-grade automation inside one of Victoria's most regulated government environments — including the organisation's first locally-deployed, multi-model AI pipeline, processing thousands of enforcement call recordings with strict privacy maintained throughout.
 
 **What that looks like in practice:**  
-- ~3,500 call recordings transcribed at scale — speaker-labelled, privacy-preserving, fully offline, zero manual intervention  
+- Thousands of call recordings transcribed at scale — speaker-labelled, privacy-preserving, fully offline, zero manual intervention  
 - Annual retailer reporting cycle — weeks of manual effort automated to a 10-minute rerun  
 - 12-day regulatory validation workflow reduced to 3 days  
 
